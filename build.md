@@ -1,8 +1,10 @@
 Boost: 1.12.12  
 Infinity (arm64-v8a): 7.4.1  
 Infinity (arm-v7a): 7.4.1  
-Messenger (arm64-v8a): 509.0.0.57.109  
+Messenger (arm64-v8a): 510.0.0.67.109  
+Messenger (arm-v7a): 510.0.0.67.109  
 TikTok (arm64-v8a): 36.5.4  
+TikTok (arm-v7a): 36.5.4  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
@@ -10,4 +12,4 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.26.0.rvp    
+Patches: ReVanced/patches-5.27.0.rvp    
