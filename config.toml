@@ -5,63 +5,13 @@ parallel-jobs = 1
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
 # you can use rvmm-config-gen to generate a config
-
-[YouTube]
-arch = "both"
-version = "auto"
-included-patches = "'Enable slide to seek'"
-excluded-patches = "'Alternative thumbnails' 'Bypass image region restrictions'"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-
-[Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-
-# [GooglePhotos]
-# build-mode = "both"
-# arch = "both"
-# version = "auto"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-# uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-
-[Twitch]
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
-
-[Twitter]
-arch = "both"
-version = "auto"
-build-mode = "apk"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-uptodown-dlurl = "https://twitter.en.uptodown.com/android"
-
-[TikTok]
-arch = "both"
-version = "auto"
-included-patches = "'SIM spoof'"
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
-
-[Messenger]
-arch = "both"
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
-uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
-
 [Instagram]
-version = "auto"
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-418-0-0-29-77-release/"
+included-patches = "'Anonymous story viewing' 'Hide Stories from Home' 'Hide suggested content' 'Enable developer menu' 'Change link sharing domain' 'Disable signature check' 'Disable story auto flipping'"
 
-[Infinity]
-version = "auto"
-dpi = "120-640dpi"
-arch = "both"
-patcher-args = "-Oclient-id=KT5eNphV2qd3X-uSoTvlMQ "
-apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
-uptodown-dlurl = "https://infinity-for-reddit.en.uptodown.com/android"
+[Reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 
-[Boost]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/"
+[Photos]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/google-photos-7-64-0-873168826-release/google-photos-7-64-0-873168826-11-android-apk-download/"
+included-patches = "'Enable DCIM folders backup control'"
