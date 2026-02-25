@@ -9,9 +9,6 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-418-0-0-29-77-release/"
 included-patches = "'Anonymous story viewing' 'Hide Stories from Home' 'Hide suggested content' 'Enable developer menu' 'Change link sharing domain' 'Disable signature check' 'Disable story auto flipping'"
 
-[Reddit]
-apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-
 [Photos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/google-photos-7-64-0-873168826-release/google-photos-7-64-0-873168826-11-android-apk-download/"
 included-patches = "'Enable DCIM folders backup control'"
