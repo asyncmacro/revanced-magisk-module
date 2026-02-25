@@ -10,5 +10,5 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/i
 included-patches = "'Anonymous story viewing' 'Hide Stories from Home' 'Hide suggested content' 'Enable developer menu' 'Change link sharing domain' 'Disable signature check' 'Disable story auto flipping'"
 
 [Photos]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/google-photos-7-64-0-873168826-release/google-photos-7-64-0-873168826-11-android-apk-download/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 included-patches = "'Enable DCIM folders backup control'"
