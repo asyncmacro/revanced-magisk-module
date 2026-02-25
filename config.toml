@@ -5,9 +5,3 @@ exclusive-patches = true
 
 [Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
-
-[Photos]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/google-photos-7-64-0-873168826-release/google-photos-7-64-0-873168826-11-android-apk-download/"
-arch = "both"
-included-patches = "'Enable DCIM folders backup control'"
-
